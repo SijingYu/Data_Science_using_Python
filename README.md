@@ -1,3 +1,2 @@
-# ann1028.github.io
-CMSC320 Final project <br>
-Everything is shown in final tutorial.ipynb
+# Data Analysis using Python
+From CMSC320 including a final project <br>
